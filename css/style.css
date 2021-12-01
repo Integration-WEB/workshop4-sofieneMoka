@@ -23,7 +23,7 @@
     padding: 1rem 1.25rem;
 }
 .nav-link{
-    font-family: 'League Gothic';
+    font-family: fantasy;
     font-size: 2.25rem;
 }
 .bi-circle-fill{
@@ -32,9 +32,43 @@
 .section1{
     background-color: #3a0a1d;
 }
+.acc{
+    margin-right: 5rem;
+}
+.flex{
+    margin-right: 5rem;
+}
+.font{
+    margin-right: 5rem;
+}
+.fonte{
+    margin-right: 5rem;
+}
 
-
-
+.section1{
+    height: 23.125rem;
+    padding-top: 7rem;
+}
+.s21{
+    padding-top:  8.188rem;
+}
+.Fleure{
+    height: 39.688rem;
+}
+.fa-quote-left{
+    color: #616161 !important;
+}
+.more{
+    margin-left: 25.438rem;
+    background-color: #e4bc01;
+    width: 30rem;
+}
+.p2{
+    width: 31.25rem;
+}
+.more1{
+    margin-bottom: 3.938rem;
+}
 
 
 
